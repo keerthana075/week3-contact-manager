@@ -226,24 +226,8 @@ Exception handling helps the program respond to unexpected situations, such as i
 
 The `unittest` module is used to test important functions, including validation, searching, contact operations, and file handling.
 
-## 11. Screenshots of the Working Application
 
-Add screenshots of your actual application here to demonstrate that the program works.
-
-Recommended screenshots:
-
-1. **Main Menu:** Shows the available operations.
-2. **Add Contact:** Shows a contact being added successfully.
-3. **Search Contact:** Shows search results.
-4. **Update and Delete:** Demonstrates modifying or removing a contact.
-5. **View All Contacts:** Displays saved contacts.
-6. **Statistics:** Shows contact counts.
-7. **CSV Export or Backup:** Demonstrates file export or backup creation.
-8. **Unit Tests:** Shows the output after running the test command.
-
-Insert each screenshot below its heading in the GitHub README editor. Use real screenshots from your application rather than illustrative examples.
-
-## 12. Challenges and Solutions
+## 11. Challenges and Solutions
 
 ### Challenge 1: Validating Phone Numbers
 
@@ -265,7 +249,7 @@ Insert each screenshot below its heading in the GitHub README editor. Use real s
 
 **Solution:** Added CSV export functionality so contact details can be used in spreadsheet applications.
 
-## 13. What I Learned
+## 12. What I Learned
 
 Through this project, I learned:
 
@@ -279,7 +263,7 @@ Through this project, I learned:
 8. **Unit Testing:** How to test functions and identify errors.
 9. **Git and GitHub:** How to track code changes and share a project repository.
 
-## 14. Future Improvements
+## 13. Future Improvements
 
 - Add a graphical user interface.
 - Implement contact sorting and filtering.
@@ -288,7 +272,7 @@ Through this project, I learned:
 - Add more automated tests.
 - Add contact import functionality.
 
-## 15. Conclusion
+## 14. Conclusion
 
 The Contact Management System demonstrates how Python can be used to build a practical application using dictionaries, functions, validation, file handling, and testing.
 
