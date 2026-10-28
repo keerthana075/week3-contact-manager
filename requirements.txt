@@ -1,0 +1,4 @@
+
+# Contact Management System
+# No external packages required.
+# Uses Python standard library only.

@@ -1,0 +1,10 @@
+{
+    "ravi": {
+        "phone": "9876543210",
+        "email": "ravi@gmail.com",
+        "address": "123 main street",
+        "group": "friends",
+        "created_at": "2026-10-28T11:11:24.018389",
+        "updated_at": "2026-10-28T11:11:24.018389"
+    }
+}
